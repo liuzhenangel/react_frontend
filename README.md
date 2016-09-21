@@ -4,6 +4,8 @@ React 中文文档
 
 [安装](https://github.com/facebook/react/blob/master/docs/docs/getting-started.zh-CN.md)
 
+[教程](https://github.com/facebook/react/blob/master/docs/docs/tutorial.zh-CN.md)
+
 [为什么选择React](https://github.com/facebook/react/blob/master/docs/docs/01-why-react.zh-CN.md)
 
 [显示数据](https://github.com/facebook/react/blob/master/docs/docs/02-displaying-data.zh-CN.md)
@@ -24,33 +26,33 @@ React 中文文档
 
 [表单](https://github.com/facebook/react/blob/master/docs/docs/07-forms.zh-CN.md)
 
-[在浏览器上工作](https://github.com/facebook/react/blob/master/docs/docs/08-working-with-the-browser.zh-CN.md)
+[与浏览器协作](https://github.com/facebook/react/blob/master/docs/docs/08-working-with-the-browser.zh-CN.md)
 
-[关于Refs详情](https://github.com/facebook/react/blob/master/docs/docs/08.1-more-about-refs.zh-CN.md)
+[对组件的refs](https://github.com/facebook/react/blob/master/docs/docs/08.1-more-about-refs.zh-CN.md)
 
-[工具](https://github.com/facebook/react/blob/master/docs/docs/09-tooling-integration.zh-CN.md)
+[工具集成](https://github.com/facebook/react/blob/master/docs/docs/09-tooling-integration.zh-CN.md)
 
 [插件](https://github.com/facebook/react/blob/master/docs/docs/10-addons.zh-CN.md)
 
 [动画](https://github.com/facebook/react/blob/master/docs/docs/10.1-animation.zh-CN.md)
 
-[shallowCompare函数](https://github.com/facebook/react/blob/master/docs/docs/10.10-shallow-compare.zh-CN.md)
+[浅比较](https://github.com/facebook/react/blob/master/docs/docs/10.10-shallow-compare.zh-CN.md)
 
-[ReactLink绑定](https://github.com/facebook/react/blob/master/docs/docs/10.2-form-input-binding-sugar.zh-CN.md)
+[高级特性](https://github.com/facebook/react/blob/master/docs/docs/11-advanced-performance.zh-CN.md)
+
+[双向绑定辅助](https://github.com/facebook/react/blob/master/docs/docs/10.2-form-input-binding-sugar.zh-CN.md)
 
 [测试](https://github.com/facebook/react/blob/master/docs/docs/10.4-test-utils.zh-CN.md)
 
-[元素拷贝](https://github.com/facebook/react/blob/master/docs/docs/10.5-clone-with-props.zh-CN.md)
+[克隆 ReactElements](https://github.com/facebook/react/blob/master/docs/docs/10.5-clone-with-props.zh-CN.md)
 
-[创建碎片](https://github.com/facebook/react/blob/master/docs/docs/10.6-create-fragment.zh-CN.md)
+[Keyed Fragments](https://github.com/facebook/react/blob/master/docs/docs/10.6-create-fragment.zh-CN.md)
 
-[immutable数据管理](https://github.com/facebook/react/blob/master/docs/docs/10.7-update.zh-CN.md)
+[immutability 助手](https://github.com/facebook/react/blob/master/docs/docs/10.7-update.zh-CN.md)
 
-[mixin render](https://github.com/facebook/react/blob/master/docs/docs/10.8-pure-render-mixin.zh-CN.md)
+[PureRenderMixin](https://github.com/facebook/react/blob/master/docs/docs/10.8-pure-render-mixin.zh-CN.md)
 
-[shouldComponentUpdate钩子](https://github.com/facebook/react/blob/master/docs/docs/10.9-perf.zh-CN.md)
-
-[高级特性](https://github.com/facebook/react/blob/master/docs/docs/11-advanced-performance.zh-CN.md)
+[性能工具](https://github.com/facebook/react/blob/master/docs/docs/10.9-perf.zh-CN.md)
 
 [Context特性](https://github.com/facebook/react/blob/master/docs/docs/12-context.zh-CN.md)
 
@@ -73,7 +75,5 @@ React 中文文档
 [React (虚拟) DOM 术语](https://github.com/facebook/react/blob/master/docs/docs/ref-10-glossary.zh-CN.md)
 
 [React 编程思想](https://github.com/facebook/react/blob/master/docs/docs/thinking-in-react.zh-CN.md)
-
-[教程](https://github.com/facebook/react/blob/master/docs/docs/tutorial.zh-CN.md)
 
 [视频](https://github.com/facebook/react/blob/master/docs/docs/videos.zh-CN.md)
